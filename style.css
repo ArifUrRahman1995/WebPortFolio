@@ -1,0 +1,21 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: rgb(186, 34, 29);
+}
+.Intro{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.Intro img{
+    margin-top: 20px;
+    width: 100%;
+    
+}
